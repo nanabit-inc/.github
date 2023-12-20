@@ -1,12 +1,16 @@
-## Hi there 👋
+## 株式会社nanabit
 
-<!--
+Webアプリケーションの開発や支援を行っている会社です。
 
-**Here are some ideas to get you started:**
+- [コーポレートサイト](https://nanabit.dev/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 仕事の相談・依頼について
+
+コーポレートサイトに記載のEmail、もしくはXのDMなどでお気軽にお問い合わせください。
+
+### スポンサー
+
+株式会社nanabitでは以下のプロジェクトや開発者にスポンサーをしています。
+
+- [Biome](https://opencollective.com/biome)
+
