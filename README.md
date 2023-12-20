@@ -1,1 +1,2 @@
-# .github
+# 株式会社nanabit
+
