@@ -14,6 +14,7 @@ Webアプリケーションの開発や支援を行っている会社です。
 株式会社nanabitでは以下のプロジェクトや開発者にスポンサーをしています。
 
 - [Biome](https://opencollective.com/biome)
+- [OpenAPI TypeScript](https://opencollective.com/openapi-ts)
 - [QuiiBz](https://github.com/sponsors/QuiiBz)
   - [next-international](https://github.com/QuiiBz/next-international/)
   - [𝕏 @tomlienard](https://x.com/tomlienard)
