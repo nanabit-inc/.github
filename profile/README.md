@@ -20,4 +20,5 @@ Webアプリケーションの開発や支援を行っている会社です。
   - [𝕏 @tomlienard](https://x.com/tomlienard)
 - [FUJIWARA Shunichiro](https://github.com/sponsors/fujiwara)
   - [ecspresso](https://github.com/kayac/ecspresso)
-
+- [ubugeeei](https://github.com/sponsors/ubugeeei)
+  - [chibivue](https://github.com/ubugeeei/chibivue)
