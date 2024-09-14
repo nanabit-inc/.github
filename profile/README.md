@@ -2,7 +2,7 @@
 
 Webアプリケーションの開発や支援、YouTubeで技術動画の配信を行っている会社です。
 
-- [コーポレートサイト](https://nanabit.dev/)
+- [nanabit コーポレートサイト](https://nanabit.dev/)
 - [ムーザルちゃんねる](https://www.youtube.com/@moozaru)
 - [代表 @zaru](https://x.com/zaru)
 
