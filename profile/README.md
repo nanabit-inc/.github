@@ -1,8 +1,9 @@
 ## 株式会社nanabit
 
-Webアプリケーションの開発や支援を行っている会社です。
+Webアプリケーションの開発や支援、YouTubeで技術動画の配信を行っている会社です。
 
 - [コーポレートサイト](https://nanabit.dev/)
+- [ムーザルちゃんねる](https://www.youtube.com/@moozaru)
 - [代表 @zaru](https://x.com/zaru)
 
 ### 仕事の相談・依頼について
